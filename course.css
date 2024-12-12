@@ -1,0 +1,57 @@
+/* Container for the videos */
+.max-w-screen-2xl.container {
+    margin-top: 4vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4vh;
+  }
+  
+  /* Section for the videos */
+  .items-center {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Show 3 videos in each row */
+    gap: 2vw; /* Space between each video */
+    justify-items: center;
+    width: 100%;
+  }
+  
+  /* For larger screens, keep 3 videos in the same row, then move to next line */
+  @media (min-width: 1024px) {
+    .items-center {
+      grid-template-columns: repeat(3, 1fr); /* 3 videos per row */
+      gap: 3vw; /* Larger gap for better spacing */
+    }
+  }
+  
+  /* For smaller screens, show 1 video per row */
+  @media (max-width: 768px) {
+    .items-center {
+      grid-template-columns: 1fr; /* Only 1 video per row */
+      gap: 4vh; /* More vertical space between videos */
+    }
+  }
+  
+  /* Each iframe styling */
+  iframe {
+    max-width: 100%; /* Ensure videos are responsive */
+    border: none; /* Remove border */
+    border-radius: 8px; /* Rounded corners for a cleaner look */
+  }
+  
+  /* Styling for the heading and description */
+  h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  h1 span {
+    color: #d6347d; /* Pink color for emphasis */
+  }
+  
+  p {
+    font-size: 1rem;
+    margin-top: 12px;
+    color: #555;
+  }
+  

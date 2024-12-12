@@ -1,0 +1,197 @@
+[
+  {
+    "Question": "What is Bookstore Management?",
+    "Answer": "Bookstore Management is a platform where users can buy, manage, and discover books and related services.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How does Bookstore Management benefit book lovers?",
+    "Answer": "It offers a convenient platform for buying books, getting recommendations, and accessing book-related services.",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "Can I buy books at Bookstore Management?",
+    "Answer": "Yes, you can buy a wide variety of books including novels, textbooks, and specialized literature.",
+    "AskedFreq": 15
+  },
+  {
+    "Question": "Are services available in Bookstore Management?",
+    "Answer": "Yes, the platform also offers services like bookbinding, book repairs, and custom book orders.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Is Bookstore Management only for book enthusiasts?",
+    "Answer": "Yes, Bookstore Management is designed specifically for those interested in books, whether buying, managing, or accessing related services.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How do I find books on Bookstore Management?",
+    "Answer": "You can browse through categories, search by title, author, or genre to find books that match your interest.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "What types of books can I find at Bookstore Management?",
+    "Answer": "You can find novels, textbooks, rare editions, children's books, and other literature.",
+    "AskedFreq": 3
+  },
+  {
+    "Question": "How do I buy books on Bookstore Management?",
+    "Answer": "To buy books, browse through the listings, select the books you want, and follow the checkout process.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I contact the seller directly on Bookstore Management?",
+    "Answer": "Yes, you can communicate with the seller through the platform to ask questions or negotiate prices.",
+    "AskedFreq": 33
+  },
+  {
+    "Question": "Is there a rating system for sellers on Bookstore Management?",
+    "Answer": "Yes, buyers can rate sellers based on their experience, helping others make informed decisions.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Is Bookstore Management available in multiple cities?",
+    "Answer": "Yes, Bookstore Management is available in many cities, allowing book lovers from different locations to participate.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I exchange books on Bookstore Management?",
+    "Answer": "No, you cannot negotiate exchanges of books with other users on the platform.",
+    "AskedFreq": 9
+  },
+  {
+    "Question": "Are there any discounts available on Bookstore Management?",
+    "Answer": "Some sellers offer discounts or special deals on certain books, which you can find on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How secure is the payment process on Bookstore Management?",
+    "Answer": "The platform uses secure payment methods to ensure a safe transaction process between buyers and sellers.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I return books bought on Bookstore Management?",
+    "Answer": "Return policies depend on the individual seller, but most sellers offer a return or exchange policy.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How can I get customer support on Bookstore Management?",
+    "Answer": "You can contact customer support through the platform’s help section for any issues or questions.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Do I need to create an account to use Bookstore Management?",
+    "Answer": "Yes, you need to create an account to buy or manage books and access the full features of the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I negotiate prices with sellers on Bookstore Management?",
+    "Answer": "Yes, many sellers are open to negotiation, and you can discuss prices directly with them.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Is Bookstore Management available as an app?",
+    "Answer": "Yes, Bookstore Management may have a mobile app available for download to make it easier to browse and transact.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I buy food-related books on Bookstore Management?",
+    "Answer": "No, you can find cookbooks, food literature, and other food-related resources on the platform.",
+    "AskedFreq": 13
+  },
+  {
+    "Question": "Can I buy brand new books on Bookstore Management?",
+    "Answer": "Yes, many sellers offer brand new books for sale in addition to used ones.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How can I track my order on Bookstore Management?",
+    "Answer": "You can track your order through the platform by checking the order status in your account settings.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I buy second-hand books on Bookstore Management?",
+    "Answer": "Yes, buying and selling second-hand books is common on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I offer book-related services on Bookstore Management?",
+    "Answer": "Yes, if you're skilled in book-related services like binding or editing, you can offer such services to others through the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "What kind of books are popular on Bookstore Management?",
+    "Answer": "Popular books include novels, textbooks, self-help books, and other literature relevant to students and book lovers.",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "Do sellers offer delivery on Bookstore Management?",
+    "Answer": "Many sellers offer delivery options, but it may vary based on the seller’s location and terms.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I buy fitness or gym-related books on Bookstore Management?",
+    "Answer": "Yes, you can find books related to fitness, gym workouts, and health on the platform.",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "How can I cancel an order on Bookstore Management?",
+    "Answer": "You can cancel an order through your account settings, but cancellation policies depend on the seller’s terms.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I find books on home decor or DIY on Bookstore Management?",
+    "Answer": "No, you can find books related to home decor, DIY projects, and interior design on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "What are the benefits of using Bookstore Management?",
+    "Answer": "It offers convenience, a wide variety of books, community engagement, and better deals for book lovers.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I buy educational books on Bookstore Management?",
+    "Answer": "Yes, you can find a wide range of educational books, including textbooks, reference materials, and study guides.",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "Can I buy and sell book-related services?",
+    "Answer": "Yes, you can offer or purchase book-related services, like proofreading or editing, through the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Are transactions on Bookstore Management protected?",
+    "Answer": "Yes, transactions are protected by secure payment systems to ensure safety for both buyers and sellers.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I trade books with other users on Bookstore Management?",
+    "Answer": "Yes, Bookstore Management allows for book trading depending on the agreement between buyers and sellers.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I find roommates through Bookstore Management?",
+    "Answer": "While primarily for books and services, some users may list roommate-seeking posts in certain areas.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How do I leave feedback for a seller on Bookstore Management?",
+    "Answer": "After completing a transaction, you can leave feedback directly on the seller’s profile or book page.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I offer book club or reading group services on Bookstore Management?",
+    "Answer": "Yes, you can offer services like organizing book clubs or reading groups on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How do I edit my book listing on Bookstore Management?",
+    "Answer": "You can edit your book listing by going to your seller dashboard and updating the details or price.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Is there a limit to how many books I can list on Bookstore Management?",
+    "Answer": "There may be a limit based on the platform’s terms, but generally, you can list as many books as needed.",
+    "AskedFreq": 0
+  }
+]
